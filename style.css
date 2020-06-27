@@ -1,0 +1,102 @@
+body {
+	background-color: #c3bfd9;
+}
+h1 {
+	font-family: calibri;
+	
+}
+
+h2 {
+	font-family: calibri;
+	
+}
+
+h3 {
+	font-family: calibri;
+	
+}
+
+p {
+	font-family: calibri;
+}
+
+#mainBody {
+	font-family: calibri;
+	width: 60%;
+	margin: auto;
+	background-color: #e2dff0;
+}
+
+#headSection {
+	width: 60%;
+	margin: auto;
+	background-size: cover;
+}
+
+#contactDetails {
+	float: right;
+}
+
+#profileImage {
+	width: 12.5%;
+	float: right;
+	margin-right: 30px;
+	
+}
+
+#jobdiv {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#profpica {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#profpicb {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#profileImage img {
+	width: 100%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	
+
+}
+
+#personalInfo {
+	font-family: calibri;
+	position: absolute;
+	float: right;
+	text-decoration: none;
+	margin-left: -15px;
+	
+}
+
+#infoBG {
+	background-color: gray;
+}
+
+#personalInfo ul li{
+	
+}
+
+#secTitle {
+
+}
+
+#secContent {
+
+}
+
+.sectionTitle {
+
+}
+
+.sectionContent {
+
+}
